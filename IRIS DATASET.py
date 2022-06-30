@@ -112,7 +112,7 @@ print(accuracy_score(y_test,y_pred7))
 # train=logr.fit(x_train,y_train)
 # y_pred=logr.predict(x_test)
 # print(accuracy_score(y_test,y_pred))
-
+#### ANS ####
 # 0.9777777777777777
 # 0.9777777777777777
 # 0.9777777777777777
